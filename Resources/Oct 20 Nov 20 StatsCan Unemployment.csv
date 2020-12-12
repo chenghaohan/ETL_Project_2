@@ -1,0 +1,154 @@
+﻿"Labour force characteristics by province, monthly, seasonally adjusted" 1 2 3
+"Monthly"
+"Table: 14-10-0287-03 (formerly CANSIM 282-0087)"
+"Geography: Canada, Province or territory"
+
+"",,"Both sexes",,,,,,
+"",,"15 years and over",,,,,,
+"",,"Estimate",,,,,,
+"",,"Seasonally adjusted",,,,,,
+"Geography 4","Labour force characteristics","November 2019","October 2020","November 2020","November 2019 to November 2020","October 2020 to November 2020","October 2020 to November 2020","November 2019 to November 2020"
+"Canada","","Persons",,,,,"Percentage change",
+,"Population (x 1,000) 5 6","30,932.8","31,250.1","31,275.6","342.8","25.5","0.1","1.1"
+,"Labour force (x 1,000) 7","20,289.3","20,370.3","20,350.8","61.5","-19.5","-0.1","0.3"
+,"Employment (x 1,000) 8","19,097.3","18,553.5","18,615.6","-481.7","62.1","0.3","-2.5"
+,"Full-time employment (x 1,000) 9","15,501.6","15,052.4","15,151.8","-349.8","99.4","0.7","-2.3"
+,"Part-time employment  (x 1,000) 10","3,595.6","3,501.1","3,463.7","-131.9","-37.4","-1.1","-3.7"
+,"Unemployment (x 1,000) 11","1,192.1","1,816.8","1,735.2","543.1","-81.6","-4.5","45.6"
+,"","Percentage",,,,,"Percentage change",
+,"Unemployment rate 12","5.9","8.9","8.5","2.6","-0.4","...","..."
+,"Participation rate 13","65.6","65.2","65.1","-0.5","-0.1","...","..."
+,"Employment rate 14","61.7","59.4","59.5","-2.2","0.1","...","..."
+"Newfoundland and Labrador","","Persons",,,,,"Percentage change",
+,"Population (x 1,000) 5 6","439.9","439.3","439.4","-0.5","0.1","0.0","-0.1"
+,"Labour force (x 1,000) 7","254.7","254.7","255.6","0.9","0.9","0.4","0.4"
+,"Employment (x 1,000) 8","225.8","222.1","224.4","-1.4","2.3","1.0","-0.6"
+,"Full-time employment (x 1,000) 9","188.7","185.5","186.5","-2.2","1.0","0.5","-1.2"
+,"Part-time employment  (x 1,000) 10","37.1","36.5","37.9","0.8","1.4","3.8","2.2"
+,"Unemployment (x 1,000) 11","28.8","32.7","31.3","2.5","-1.4","-4.3","8.7"
+,"","Percentage",,,,,"Percentage change",
+,"Unemployment rate 12","11.3","12.8","12.2","0.9","-0.6","...","..."
+,"Participation rate 13","57.9","58.0","58.2","0.3","0.2","...","..."
+,"Employment rate 14","51.3","50.6","51.1","-0.2","0.5","...","..."
+"Prince Edward Island","","Persons",,,,,"Percentage change",
+,"Population (x 1,000) 5 6","129.9","132.0","132.2","2.3","0.2","0.2","1.8"
+,"Labour force (x 1,000) 7","86.0","84.9","86.3","0.3","1.4","1.6","0.3"
+,"Employment (x 1,000) 8","79.1","76.4","77.4","-1.7","1.0","1.3","-2.1"
+,"Full-time employment (x 1,000) 9","67.0","64.6","64.7","-2.3","0.1","0.2","-3.4"
+,"Part-time employment  (x 1,000) 10","12.1","11.8","12.7","0.6","0.9","7.6","5.0"
+,"Unemployment (x 1,000) 11","6.9","8.5","8.8","1.9","0.3","3.5","27.5"
+,"","Percentage",,,,,"Percentage change",
+,"Unemployment rate 12","8.0","10.0","10.2","2.2","0.2","...","..."
+,"Participation rate 13","66.2","64.3","65.3","-0.9","1.0","...","..."
+,"Employment rate 14","60.9","57.9","58.5","-2.4","0.6","...","..."
+"Nova Scotia","","Persons",,,,,"Percentage change",
+,"Population (x 1,000) 5 6","811.6","819.4","820.0","8.4","0.6","0.1","1.0"
+,"Labour force (x 1,000) 7","506.6","502.4","500.7","-5.9","-1.7","-0.3","-1.2"
+,"Employment (x 1,000) 8","466.8","458.5","468.5","1.7","10.0","2.2","0.4"
+,"Full-time employment (x 1,000) 9","381.5","374.4","383.2","1.7","8.8","2.4","0.4"
+,"Part-time employment  (x 1,000) 10","85.3","84.1","85.3","0.0","1.2","1.4","0.0"
+,"Unemployment (x 1,000) 11","39.8","43.8","32.2","-7.6","-11.6","-26.5","-19.1"
+,"","Percentage",,,,,"Percentage change",
+,"Unemployment rate 12","7.9","8.7","6.4","-1.5","-2.3","...","..."
+,"Participation rate 13","62.4","61.3","61.1","-1.3","-0.2","...","..."
+,"Employment rate 14","57.5","56.0","57.1","-0.4","1.1","...","..."
+"New Brunswick","","Persons",,,,,"Percentage change",
+,"Population (x 1,000) 5 6","634.1","637.9","638.1","4.0","0.2","0.0","0.6"
+,"Labour force (x 1,000) 7","385.0","392.3","394.5","9.5","2.2","0.6","2.5"
+,"Employment (x 1,000) 8","354.8","352.7","356.9","2.1","4.2","1.2","0.6"
+,"Full-time employment (x 1,000) 9","302.0","300.9","304.3","2.3","3.4","1.1","0.8"
+,"Part-time employment  (x 1,000) 10","52.8","51.7","52.6","-0.2","0.9","1.7","-0.4"
+,"Unemployment (x 1,000) 11","30.3","39.6","37.7","7.4","-1.9","-4.8","24.4"
+,"","Percentage",,,,,"Percentage change",
+,"Unemployment rate 12","7.9","10.1","9.6","1.7","-0.5","...","..."
+,"Participation rate 13","60.7","61.5","61.8","1.1","0.3","...","..."
+,"Employment rate 14","56.0","55.3","55.9","-0.1","0.6","...","..."
+"Quebec","","Persons",,,,,"Percentage change",
+,"Population (x 1,000) 5 6","7,077.0","7,137.5","7,142.7","65.7","5.2","0.1","0.9"
+,"Labour force (x 1,000) 7","4,579.3","4,612.2","4,603.4","24.1","-8.8","-0.2","0.5"
+,"Employment (x 1,000) 8","4,324.5","4,258.0","4,273.7","-50.8","15.7","0.4","-1.2"
+,"Full-time employment (x 1,000) 9","3,514.2","3,498.4","3,513.8","-0.4","15.4","0.4","-0.0"
+,"Part-time employment  (x 1,000) 10","810.3","759.5","760.0","-50.3","0.5","0.1","-6.2"
+,"Unemployment (x 1,000) 11","254.7","354.2","329.7","75.0","-24.5","-6.9","29.4"
+,"","Percentage",,,,,"Percentage change",
+,"Unemployment rate 12","5.6","7.7","7.2","1.6","-0.5","...","..."
+,"Participation rate 13","64.7","64.6","64.4","-0.3","-0.2","...","..."
+,"Employment rate 14","61.1","59.7","59.8","-1.3","0.1","...","..."
+"Ontario","","Persons",,,,,"Percentage change",
+,"Population (x 1,000) 5 6","12,224.6","12,367.2","12,378.9","154.3","11.7","0.1","1.3"
+,"Labour force (x 1,000) 7","7,965.6","8,035.2","8,037.5","71.9","2.3","0.0","0.9"
+,"Employment (x 1,000) 8","7,525.3","7,267.2","7,303.8","-221.5","36.6","0.5","-2.9"
+,"Full-time employment (x 1,000) 9","6,128.2","5,952.8","6,012.1","-116.1","59.3","1.0","-1.9"
+,"Part-time employment  (x 1,000) 10","1,397.1","1,314.4","1,291.7","-105.4","-22.7","-1.7","-7.5"
+,"Unemployment (x 1,000) 11","440.3","768.0","733.7","293.4","-34.3","-4.5","66.6"
+,"","Percentage",,,,,"Percentage change",
+,"Unemployment rate 12","5.5","9.6","9.1","3.6","-0.5","...","..."
+,"Participation rate 13","65.2","65.0","64.9","-0.3","-0.1","...","..."
+,"Employment rate 14","61.6","58.8","59.0","-2.6","0.2","...","..."
+"Manitoba","","Persons",,,,,"Percentage change",
+,"Population (x 1,000) 5 6","1,043.0","1,047.9","1,048.2","5.2","0.3","0.0","0.5"
+,"Labour force (x 1,000) 7","690.7","700.2","683.4","-7.3","-16.8","-2.4","-1.1"
+,"Employment (x 1,000) 8","652.3","650.5","632.4","-19.9","-18.1","-2.8","-3.1"
+,"Full-time employment (x 1,000) 9","527.8","517.0","514.5","-13.3","-2.5","-0.5","-2.5"
+,"Part-time employment  (x 1,000) 10","124.5","133.5","118.0","-6.5","-15.5","-11.6","-5.2"
+,"Unemployment (x 1,000) 11","38.4","49.7","50.9","12.5","1.2","2.4","32.6"
+,"","Percentage",,,,,"Percentage change",
+,"Unemployment rate 12","5.6","7.1","7.4","1.8","0.3","...","..."
+,"Participation rate 13","66.2","66.8","65.2","-1.0","-1.6","...","..."
+,"Employment rate 14","62.5","62.1","60.3","-2.2","-1.8","...","..."
+"Saskatchewan","","Persons",,,,,"Percentage change",
+,"Population (x 1,000) 5 6","892.8","893.8","894.0","1.2","0.2","0.0","0.1"
+,"Labour force (x 1,000) 7","616.8","601.2","601.8","-15.0","0.6","0.1","-2.4"
+,"Employment (x 1,000) 8","580.9","562.9","560.1","-20.8","-2.8","-0.5","-3.6"
+,"Full-time employment (x 1,000) 9","475.3","459.8","461.3","-14.0","1.5","0.3","-2.9"
+,"Part-time employment  (x 1,000) 10","105.6","103.1","98.9","-6.7","-4.2","-4.1","-6.3"
+,"Unemployment (x 1,000) 11","35.8","38.2","41.7","5.9","3.5","9.2","16.5"
+,"","Percentage",,,,,"Percentage change",
+,"Unemployment rate 12","5.8","6.4","6.9","1.1","0.5","...","..."
+,"Participation rate 13","69.1","67.3","67.3","-1.8","0.0","...","..."
+,"Employment rate 14","65.1","63.0","62.7","-2.4","-0.3","...","..."
+"Alberta","","Persons",,,,,"Percentage change",
+,"Population (x 1,000) 5 6","3,550.8","3,585.8","3,588.7","37.9","2.9","0.1","1.1"
+,"Labour force (x 1,000) 7","2,521.6","2,494.6","2,493.4","-28.2","-1.2","-0.0","-1.1"
+,"Employment (x 1,000) 8","2,339.1","2,227.4","2,216.6","-122.5","-10.8","-0.5","-5.2"
+,"Full-time employment (x 1,000) 9","1,919.5","1,803.4","1,774.0","-145.5","-29.4","-1.6","-7.6"
+,"Part-time employment  (x 1,000) 10","419.6","424.0","442.6","23.0","18.6","4.4","5.5"
+,"Unemployment (x 1,000) 11","182.5","267.1","276.7","94.2","9.6","3.6","51.6"
+,"","Percentage",,,,,"Percentage change",
+,"Unemployment rate 12","7.2","10.7","11.1","3.9","0.4","...","..."
+,"Participation rate 13","71.0","69.6","69.5","-1.5","-0.1","...","..."
+,"Employment rate 14","65.9","62.1","61.8","-4.1","-0.3","...","..."
+"British Columbia","","Persons",,,,,"Percentage change",
+,"Population (x 1,000) 5 6","4,129.3","4,189.4","4,193.4","64.1","4.0","0.1","1.6"
+,"Labour force (x 1,000) 7","2,683.1","2,692.8","2,694.1","11.0","1.3","0.0","0.4"
+,"Employment (x 1,000) 8","2,548.5","2,477.8","2,501.7","-46.8","23.9","1.0","-1.8"
+,"Full-time employment (x 1,000) 9","1,997.4","1,895.5","1,937.6","-59.8","42.1","2.2","-3.0"
+,"Part-time employment  (x 1,000) 10","551.1","582.3","564.1","13.0","-18.2","-3.1","2.4"
+,"Unemployment (x 1,000) 11","134.5","215.0","192.4","57.9","-22.6","-10.5","43.0"
+,"","Percentage",,,,,"Percentage change",
+,"Unemployment rate 12","5.0","8.0","7.1","2.1","-0.9","...","..."
+,"Participation rate 13","65.0","64.3","64.2","-0.8","-0.1","...","..."
+,"Employment rate 14","61.7","59.1","59.7","-2.0","0.6","...","..."
+
+Symbol legend:
+...,not applicable,
+
+Footnotes:
+1,"Fluctuations in economic time series are caused by seasonal, cyclical and irregular movements. A seasonally adjusted series is one from which seasonal movements have been eliminated. Seasonal movements are defined as those which are caused by regular annual events such as climate, holidays, vacation periods and cycles related to crops, production and retail sales associated with Christmas and Easter. It should be noted that the seasonally adjusted series contain irregular as well as longer-term cyclical fluctuations. The seasonal adjustment program is a complicated computer program which differentiates between these seasonal, cyclical and irregular movements in a series over a number of years and, on the basis of past movements, estimates appropriate seasonal factors for current data. On an annual basis, the historic series of seasonally adjusted data are revised in light of the most recent information on changes in seasonality."
+2,"To ensure respondent confidentiality, estimates below a certain threshold are suppressed. For Canada, Quebec, Ontario, Alberta and British Columbia suppression is applied to all data below 1,500. The threshold level for Newfoundland and Labrador, Nova Scotia, New Brunswick, Manitoba and Saskatchewan is 500, while in Prince Edward Island, estimates under 200 are supressed. For census metropolitan areas (CMAs) and economic regions (ERs), use their respective provincial suppression levels mentioned above. Estimates are based on smaller sample sizes the more detailed the table becomes, which could result in lower data quality."
+3,For more information on seasonal adjustment see Seasonally adjusted data - Frequently asked questions.
+4,Excluding the territories.
+5,"Number of persons of working age, 15 years and over. Estimates in thousands, rounded to the nearest hundred."
+6,"From December 2000 to January 2001, there is a slight level shift in the population series. This is due to the 2015 population rebasing, which was revised back to 2001. This level shift is evident for certain age groups and in two provinces (Manitoba and Saskatchewan). These shifts are minor for labour force estimates and rates."
+7,"Number of civilian, non-institutionalized persons 15 years of age and over who, during the reference week, were employed or unemployed. Estimates in thousands, rounded to the nearest hundred."
+8,"Number of persons who, during the reference week, worked for pay or profit, or performed unpaid family work or had a job but were not at work due to own illness or disability, personal or family responsibilities, labour dispute, vacation, or other reason. Those persons on layoff and persons without work but who had a job to start at a definite date in the future are not considered employed. Estimates in thousands, rounded to the nearest hundred."
+9,"Full-time employment consists of persons who usually work 30 hours or more per week at their main or only job. Estimates in thousands, rounded to the nearest hundred."
+10,"Part-time employment consists of persons who usually work less than 30 hours per week at their main or only job. Estimates in thousands, rounded to the nearest hundred."
+11,"Number of persons who, during the reference week, were without work, had looked for work in the past four weeks, and were available for work. Those persons on layoff or who had a new job to start in four weeks or less are considered unemployed. Estimates in thousands, rounded to the nearest hundred."
+12,"The unemployment rate is the number of unemployed persons expressed as a percentage of the labour force. The unemployment rate for a particular group (age, sex, marital status, etc.) is the number unemployed in that group expressed as a percentage of the labour force for that group. Estimates are percentages, rounded to the nearest tenth."
+13,"The participation rate is the number of labour force participants expressed as a percentage of the population 15 years of age and over. The participation rate for a particular group (age, sex, marital status, etc.) is the number of labour force participants in that group expressed as a percentage of the population for that group. Estimates are percentages, rounded to the nearest tenth."
+14,"The employment rate is the number of persons employed expressed as a percentage of the population 15 years of age and over. The employment rate for a particular group (age, sex, marital status, etc.) is the number employed in that group expressed as a percentage of the population for that group. Estimates are percentages, rounded to the nearest tenth."
+
+"How to cite: Statistics Canada. Table 14-10-0287-03 Labour force characteristics by province, monthly, seasonally adjusted"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028703
+DOI: https://doi.org/10.25318/1410028701-eng
