@@ -25,4 +25,3 @@ CREATE TABLE can_cases (
     No_Cases INT
 );
 
-SELECT * FROM can_cases;
