@@ -40,4 +40,23 @@ CREATE TABLE can_demo  (
 	Female_Deaths INT
 );
 
+--- Create Stock Price Table in Tech Industry
+DROP TABLE IF EXISTS stock_prices;
 
+CREATE TABLE stock_prices (
+    date DATE PRIMARY KEY,
+    zoom FLOAT,
+    slack FLOAT,
+    cisco FLOAT,
+    shopify FLOAT);
+
+--- Create CERB Table
+DROP TABLE IF EXISTS CERB;
+
+CREATE TABLE CERB(
+    provinces VARCHAR(100) PRIMARY KEY,
+    female_gender_number INT,	
+    male_gender_number INT,	
+    gender_diverse_number INT,
+    total_number INT
+);
