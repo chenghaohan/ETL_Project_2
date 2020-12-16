@@ -25,25 +25,19 @@ CREATE TABLE can_cases (
     No_Cases INT
 );
 
---- Create Stock Price Table in Tech Industry
-DROP TABLE IF EXISTS stock_prices;
+--- Create CAN COVID Canada Demographic Table
+DROP TABLE IF EXISTS can_demo;
 
-CREATE TABLE stock_prices (
-    Date DATE PRIMARY KEY,
-    Zoom FLOAT,
-    Slack FLOAT,
-    Cisco FLOAT,
-    Shopify FLOAT,
+CREATE TABLE can_demo  (
+	Age_Group VARCHAR(300),
+	Male_Cases INT,
+	Female_Cases INT,
+	Male_Hospitalization INT,
+	Female_Hospitalization INT,
+	Male_to_ICU INT,
+	Female_to_ICU INT,
+	Male_Deaths INT,
+	Female_Deaths INT
 );
 
---- Create CERB table by Province in Canada
 
-DROP TABLE IF EXISTS CERB;
-
-CREATE TABLE CERB(
-    Provinces VARCHAR(100) PRIMARY KEY,
-    Female_gender_Number INT,	
-    Male_gender_Number INT,	
-    Gender_diverse_Number INT,
-    Total_Number INT
-);
