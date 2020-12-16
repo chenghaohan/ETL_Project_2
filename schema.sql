@@ -25,3 +25,25 @@ CREATE TABLE can_cases (
     No_Cases INT
 );
 
+--- Create Stock Price Table in Tech Industry
+DROP TABLE IF EXISTS stock_prices;
+
+CREATE TABLE stock_prices (
+    Date DATE PRIMARY KEY,
+    Zoom FLOAT,
+    Slack FLOAT,
+    Cisco FLOAT,
+    Shopify FLOAT,
+);
+
+--- Create CERB table by Province in Canada
+
+DROP TABLE IF EXISTS CERB;
+
+CREATE TABLE CERB(
+    Provinces VARCHAR(100) PRIMARY KEY,
+    Female_gender_Number INT,	
+    Male_gender_Number INT,	
+    Gender_diverse_Number INT,
+    Total_Number INT
+);
