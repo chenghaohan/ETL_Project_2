@@ -50,7 +50,8 @@ CREATE TABLE stock_prices (
     cisco FLOAT,
     shopify FLOAT);
 
----DROP TABLE IF EXISTS CERB;
+--- Create CERB Table
+DROP TABLE IF EXISTS CERB;
 
 CREATE TABLE CERB(
     provinces VARCHAR(100) PRIMARY KEY,
