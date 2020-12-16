@@ -25,3 +25,19 @@ CREATE TABLE can_cases (
     No_Cases INT
 );
 
+--- Create CAN COVID Canada Demographic Table
+DROP TABLE IF EXISTS can_demo;
+
+CREATE TABLE can_demo  (
+	Age_Group VARCHAR(300),
+	Male_Cases INT,
+	Female_Cases INT,
+	Male_Hospitalization INT,
+	Female_Hospitalization INT,
+	Male_to_ICU INT,
+	Female_to_ICU INT,
+	Male_Deaths INT,
+	Female_Deaths INT
+);
+
+
