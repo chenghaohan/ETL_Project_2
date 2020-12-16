@@ -29,7 +29,7 @@ CREATE TABLE can_cases (
 DROP TABLE IF EXISTS can_demo;
 
 CREATE TABLE can_demo  (
-	Age_Group VARCHAR(300),
+	Age_Group VARCHAR(300) PRIMARY KEY,
 	Male_Cases INT,
 	Female_Cases INT,
 	Male_Hospitalization INT,
