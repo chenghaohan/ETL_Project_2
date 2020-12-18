@@ -69,3 +69,55 @@ CREATE TABLE unemployment (
     Month-Year VARCHAR(20)
     Unemployment_index VARCHAR(10)
 );
+
+--- ALTER TABLES FOR RELATIONSHIP
+
+ALTER TABLE "CNN_News" ADD CONSTRAINT "fk_CNN_News_Date" FOREIGN KEY("Date")
+REFERENCES "Global_Cases" ("Date");
+
+ALTER TABLE "Global_Cases" ADD CONSTRAINT "fk_Global_Cases_Date" FOREIGN KEY("Date")
+REFERENCES "CAN_Cases" ("Date");
+
+ALTER TABLE "CAN_Cases" ADD CONSTRAINT "fk_CAN_Cases_Date" FOREIGN KEY("Date")
+REFERENCES "CNN_News" ("Date");
+
+ALTER TABLE "CAN_Cases" ADD CONSTRAINT "fk_CAN_Cases_Province_Name" FOREIGN KEY("Province_Name")
+REFERENCES "Unemployment" ("Province_Name");
+
+ALTER TABLE "stock_prices" ADD CONSTRAINT "fk_stock_prices_date" FOREIGN KEY("date")
+REFERENCES "CNN_News" ("Date");
+
+ALTER TABLE "Unemployment" ADD CONSTRAINT "fk_Unemployment_Province_Name" FOREIGN KEY("Province_Name")
+REFERENCES "CERB" ("provinces");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
