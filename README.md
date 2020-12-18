@@ -1,2 +1,13 @@
-# ETL_Project_2
- bootcamp project 2
+# ETL Project: COVID-19
+
+
+## Introduction
+
+## Method - Extract 
+
+## Method - Transform 
+
+## Method - Load 
+
+
+## Discussion/Limitations/Next Steps
