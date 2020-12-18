@@ -60,3 +60,12 @@ CREATE TABLE CERB(
     gender_diverse_number INT,
     total_number INT
 );
+
+--- Create Unemployment Table
+DROP TABLE IF EXISTS unemployment;
+
+CREATE TABLE unemployment (
+    Province VARCHAR(300) PRIMARY KEY
+    Month-Year DATE
+    Unemployment_index VARCHAR(10)
+);
