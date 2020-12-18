@@ -68,7 +68,7 @@ CREATE TABLE "CERB" (
 
 CREATE TABLE "Unemployment" (
     "Province_Name" VARCHAR(300)   NOT NULL,
-    "Year-Month" DATE   NOT NULL,
+    "Year-Month" VARCHAR(20)   NOT NULL,
     "Unemployment_index" VARCHAR(10)   NOT NULL,
     CONSTRAINT "pk_Unemployment" PRIMARY KEY (
         "Province_Name"

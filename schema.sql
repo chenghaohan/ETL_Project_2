@@ -66,6 +66,6 @@ DROP TABLE IF EXISTS unemployment;
 
 CREATE TABLE unemployment (
     Province VARCHAR(300) PRIMARY KEY
-    Month-Year DATE
+    Month-Year VARCHAR(20)
     Unemployment_index VARCHAR(10)
 );
